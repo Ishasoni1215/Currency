@@ -1,0 +1,29 @@
+/*h1{
+    color: black;
+    background-color: brown;
+}
+body{
+background-color: rgb(255, 205, 207);
+}
+h6{
+    color: black;
+}
+button{
+    background-color: chartreuse;
+    color: aqua;
+}*/
+
+.box{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
+#box{
+    height: 250px;
+    background-color: aquamarine;
+    width: 100px;
+
+}
